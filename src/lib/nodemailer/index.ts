@@ -62,7 +62,7 @@ export async function generateEmailBody(
           <p>See the product <a href="${product.url}" target="_blank" rel="noopener noreferrer">here</a>.</p>
         </div>
       `;
-      break;
+      break; 
 
     case Notification.LOWEST_PRICE:
       subject = `Lowest Price Alert for ${shortenedTitle}`;
