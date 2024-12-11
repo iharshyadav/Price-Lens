@@ -1,6 +1,6 @@
-# WatchTheDrop
+# SmartDrop
 
-**WatchTheDrop** is a full-stack price tracking application developed during a 24-hour hackathon at IIT Jodhpur. The platform monitors prices on e-commerce websites like Amazon and Flipkart, predicts future price drops using machine learning models, and provides real-time notifications to users. The project integrates several technologies including web scraping, server actions, and Redis for efficient data storage and rate limiting.
+**SmartDrop** is a full-stack price tracking application developed during a 24-hour hackathon at IIT Jodhpur. The platform monitors prices on e-commerce websites like Amazon and Flipkart, predicts future price drops using machine learning models, and provides real-time notifications to users. The project integrates several technologies including web scraping, server actions, and Redis for efficient data storage and rate limiting.
 
 ## Features
 
