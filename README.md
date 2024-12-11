@@ -27,8 +27,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/watchthedrop.git
-   cd watchthedrop
+   git clone https://github.com/your-username/Smart Drop.git
+   cd Smart Drop
    npm install
    npm run dev
 

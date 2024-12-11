@@ -82,7 +82,7 @@ export const Navbar = () => {
         }}
       >
         <Link href="/" className="flex pr-16 text-gray-900 sm:pr-0 pl-3 items-center">
-          <span className="font-bold text-2xl">WatchTheDrop</span>
+          <span className="font-bold text-2xl">Smart Drop</span>
         </Link>
         <ul className=" hidden sm:flex gap-2">
           {navItems.map((item, index) => {
