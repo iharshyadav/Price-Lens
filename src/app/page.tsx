@@ -28,7 +28,7 @@ const  Home = async () => {
 
             <h1 className="mt-24 sm:mt-4 text-6xl leading-[72px] font-semibold tracking-[-1.5px] sm:tracking-[-1.2px] text-gray-900">
               Unleash the Power of
-              <span className="text-primary"> Smart Drop</span>
+              <span className="text-primary">WatchTheDrop</span>
             </h1>
 
             <p className="mt-6 px-4">
